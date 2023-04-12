@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 
 class APIClient(object):
 
-    def __init__(self, api_url, api_key, username, password, version='1.1.1'):
+    def __init__(self, api_url, api_key, username, password, version='2.0.0'):
         """
         Stores the API key and sets up the root API URL with basic auth
         for future Hammock calls
