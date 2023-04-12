@@ -6,7 +6,7 @@ setup(
     description='Sage One API Client',
     author='Max Naude',
     author_email='maxnaude@gmail.com',
-    url='https://github.com/maxnaude/sageone-api-client',
+    url='https://github.com/PauderdeGreat/sageone-api-client',
     packages=find_packages(),
     dependency_links=[],
     install_requires=['hammock'],
