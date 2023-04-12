@@ -1,5 +1,5 @@
 language: python
 python:
-  - "3.4"
+  - "3.11"
 install: pip install .
 script: python setup.py test
